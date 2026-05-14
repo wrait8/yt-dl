@@ -9,4 +9,5 @@
 - 5 - 🎬 [The-Allen-Iverson-Crossover-｜-Complete-breakdown](https://github.com/wrait8/yt-dl/tree/main/videos/The-Allen-Iverson-Crossover-%EF%BD%9C-Complete-breakdown)
 - 6 - 🎬 [The-Best-Drills-to-Develop-Elite-Change-of-Pace-as-a-Guard](https://github.com/wrait8/yt-dl/tree/main/videos/The-Best-Drills-to-Develop-Elite-Change-of-Pace-as-a-Guard)
 - 7 - 🎬 [The-SECRET-Driving-Angles-You-Need-To-Score-EVERY-TIME](https://github.com/wrait8/yt-dl/tree/main/videos/The-SECRET-Driving-Angles-You-Need-To-Score-EVERY-TIME)
-- 8 - 🎬 [The-ULTIMATE-Point-Guard-Workout：-Handles,-Balance,-Finishing-&-Midrange-Mastery](https://github.com/wrait8/yt-dl/tree/main/videos/The-ULTIMATE-Point-Guard-Workout%EF%BC%9A-Handles%2C-Balance%2C-Finishing-%26-Midrange-Mastery)
+- 8 - 🎬 [The-Secret-To-Being-SHIFTY](https://github.com/wrait8/yt-dl/tree/main/videos/The-Secret-To-Being-SHIFTY)
+- 9 - 🎬 [The-ULTIMATE-Point-Guard-Workout：-Handles,-Balance,-Finishing-&-Midrange-Mastery](https://github.com/wrait8/yt-dl/tree/main/videos/The-ULTIMATE-Point-Guard-Workout%EF%BC%9A-Handles%2C-Balance%2C-Finishing-%26-Midrange-Mastery)
